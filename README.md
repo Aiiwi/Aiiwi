@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiiwi&label=Profile%20views&color=0e75b6&style=flat" alt="aiiwi" /> </p>
 
 - 🔭 I’m currently working on **Projects and Personal Games**
-- 🌱 I’m currently learning **Frameworks Algorithms**
-- 😭 I’m currently struggling with **ANYTHING MATH RELETED** _im dumb asf_
+- 🌱 I’m currently learning **Algorithms**
+- 😭 I’m currently struggling with **ANYTHING MATH RELETED** 
 
 <a href="https://www.leetcode.com/simoneorlando2212" target="blank">Leet Code link</a>
 
